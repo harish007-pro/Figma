@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div style="width: 430px; height: 932px; position: relative; background: linear-gradient(180deg, #0172B2 0%, #001645 100%); overflow: hidden; border-radius: 50px">
   <img style="width: 546px; height: 971px; left: -12px; top: -21px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://placehold.co/546x971" />
   <img style="width: 160px; height: 160px; left: 135px; top: 150px; position: absolute" src="https://placehold.co/160x160" />
@@ -76,6 +77,7 @@ Figma
     <div style="width: 402px; height: 226px; color: #181717; font-size: 24px; font-family: Rochester; font-weight: 400; word-wrap: break-word">We wanted to express our sincere thanks for your enthusiastic participation! It was wonderful to have you with us, and your engagement made the event/project all the more vibrant and impactful. We truly appreciate you being a part of it.</div>
 
 </div>
+```
 
 ## OUTPUT:
 ![alt text](HARISH/HARISH/static/1.png)
